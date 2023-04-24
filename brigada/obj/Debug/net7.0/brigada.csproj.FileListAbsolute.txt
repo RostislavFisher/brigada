@@ -1,0 +1,15 @@
+C:\Users\Rostyslav\Desktop\HomeWork\brigada\brigada\bin\Debug\net7.0\brigada.exe
+C:\Users\Rostyslav\Desktop\HomeWork\brigada\brigada\bin\Debug\net7.0\brigada.deps.json
+C:\Users\Rostyslav\Desktop\HomeWork\brigada\brigada\bin\Debug\net7.0\brigada.runtimeconfig.json
+C:\Users\Rostyslav\Desktop\HomeWork\brigada\brigada\bin\Debug\net7.0\brigada.dll
+C:\Users\Rostyslav\Desktop\HomeWork\brigada\brigada\bin\Debug\net7.0\brigada.pdb
+C:\Users\Rostyslav\Desktop\HomeWork\brigada\brigada\obj\Debug\net7.0\brigada.csproj.AssemblyReference.cache
+C:\Users\Rostyslav\Desktop\HomeWork\brigada\brigada\obj\Debug\net7.0\brigada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rostyslav\Desktop\HomeWork\brigada\brigada\obj\Debug\net7.0\brigada.AssemblyInfoInputs.cache
+C:\Users\Rostyslav\Desktop\HomeWork\brigada\brigada\obj\Debug\net7.0\brigada.AssemblyInfo.cs
+C:\Users\Rostyslav\Desktop\HomeWork\brigada\brigada\obj\Debug\net7.0\brigada.csproj.CoreCompileInputs.cache
+C:\Users\Rostyslav\Desktop\HomeWork\brigada\brigada\obj\Debug\net7.0\brigada.dll
+C:\Users\Rostyslav\Desktop\HomeWork\brigada\brigada\obj\Debug\net7.0\refint\brigada.dll
+C:\Users\Rostyslav\Desktop\HomeWork\brigada\brigada\obj\Debug\net7.0\brigada.pdb
+C:\Users\Rostyslav\Desktop\HomeWork\brigada\brigada\obj\Debug\net7.0\brigada.genruntimeconfig.cache
+C:\Users\Rostyslav\Desktop\HomeWork\brigada\brigada\obj\Debug\net7.0\ref\brigada.dll
